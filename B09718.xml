@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>November 15. 1654. A perfect list of the several high sheriffs appointed by His Highness the Lord Protector and His Councill, for the severall counties in England and Wales for the year ensuing, viz.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09718</idno><idno type="EEBO-CITATION">64551547</idno>
+  <idno type="VID">184690</idno>
+  <idno type="EEBO-PROQUEST">2248531712</idno>
+  
+            <idno type="STC">Wing P1499A</idno>
+            <idno type="STC">ESTC R181668</idno>
+            <idno type="OCLC">64551547</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184690)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>November 15. 1654. A perfect list of the several high sheriffs appointed by His Highness the Lord Protector and His Councill, for the severall counties in England and Wales for the year ensuing, viz.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sheriffs --  Selection and appointment --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="lists">
+            <pb facs="tcp:184690:1"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>November</hi> 15. 1654.</date>
+               </dateline>
+            </opener>
+            <head>A PERFECT LIST OF THE SEVERAL HIGH SHERIFFS Appointed by His Highness the Lord Protector and His Councill, for the severall Counties in ENGLAND and WALES for the Year ensuing, <hi>Viz.</hi>
+            </head>
+            <div type="list_for_England">
+               <list>
+                  <item>FOr the County of <hi>Berks,</hi>
+                  </item>
+                  <item>Sir <hi>George Pratt,</hi>
+                  </item>
+                  <item>For the County of <hi>Bedford</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Stanton</hi> Esq;</item>
+                  <item>For the County of <hi>Buckingham</hi>
+                  </item>
+                  <item>
+                     <hi>Nicholas le Grice</hi> Esq.</item>
+                  <item>For the County of <hi>Cumberland</hi>
+                  </item>
+                  <item>Sir <hi>Wilfrid Lawson</hi> Knight</item>
+                  <item>For the Counties of <hi>Cambridge</hi> and <hi>Huntington.</hi>
+                  </item>
+                  <item>
+                     <hi>Hugh Audley</hi> Esq;</item>
+                  <item>For the County of <hi>Cornwall,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Nosworthy</hi> Esq;</item>
+                  <item>For the County of <hi>Devon.</hi>
+                  </item>
+                  <item>
+                     <hi>John Copleston</hi> Esq;</item>
+                  <item>For the County of <hi>Dorset,</hi>
+                  </item>
+                  <item>
+                     <hi>Edmond Okeden</hi> Esq;</item>
+                  <item>For the County of <hi>Darby,</hi>
+                  </item>
+                  <item>
+                     <hi>John Ferrers</hi> Esq;</item>
+                  <item>For the County of <hi>Durham,</hi>
+                  </item>
+                  <item>
+                     <hi>Timothy Wittingham</hi> Esq;</item>
+                  <item>For the County of <hi>Yorke,</hi>
+                  </item>
+                  <item>
+                     <hi>John Bright</hi> Esq;</item>
+                  <item>For the County of <hi>Essex,</hi>
+                  </item>
+                  <item>Sir <hi>John Barrington</hi> Baronet</item>
+                  <item>For the County of <hi>Glocester,</hi>
+                  </item>
+                  <item>
+                     <hi>Symon Bennet</hi> Esq;</item>
+                  <item>For the County of <hi>Hartford,</hi>
+                  </item>
+                  <item>
+                     <hi>William Leman</hi> Esq;</item>
+                  <item>For the County of <hi>Hereford,</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Hopton</hi> Esq;</item>
+                  <item>For the County of <hi>Kent,</hi>
+                  </item>
+                  <item>Sir <hi>Humphrey Tufton</hi> Baronet,</item>
+                  <item>For the County of <hi>Leicester,</hi>
+                  </item>
+                  <item>
+                     <hi>Palmer</hi> of <hi>Wanlip</hi> Esq;</item>
+                  <item>For the County of <hi>Lincolne,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Massingberd</hi> Esq;</item>
+                  <item>For the County of <hi>Monmouth,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Baker</hi> Esq;</item>
+                  <item>For the County of <hi>Northumberland,</hi>
+                  </item>
+                  <item>
+                     <hi>John Ogle</hi> of <hi>Gillingham</hi> Esq;</item>
+                  <item>For the County of <hi>Northampton,</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Andrews</hi> Esq;</item>
+                  <item>For the County of <hi>Norfolke,</hi>
+                  </item>
+                  <item>
+                     <hi>John Coke</hi> Esq;</item>
+                  <item>For the County of <hi>Nottingham,</hi>
+                  </item>
+                  <item>
+                     <hi>John Musters</hi> Esq;</item>
+                  <item>For the County of <hi>Oxford,</hi>
+                  </item>
+                  <item>
+                     <hi>John Cartwright,</hi> Esq;</item>
+                  <item>For the County of <hi>Rutland,</hi>
+                  </item>
+                  <item>Sir <hi>Thomas Mackworth</hi> Knight and Baronet</item>
+                  <item>For the County of <hi>Salop,</hi>
+                  </item>
+                  <item>
+                     <hi>Matthew Harbert,</hi> Esq;</item>
+                  <item>For the County of <hi>Somerset,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Rogers</hi> Esq;</item>
+                  <item>For the County of <hi>Stafford,</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Wilbraham</hi> Esq;</item>
+                  <item>For the County of <hi>Suffolke,</hi>
+                  </item>
+                  <item>Sir <hi>Jo: Barker</hi> Baronet</item>
+                  <item>For the County of <hi>Southampton,</hi>
+                  </item>
+                  <item>
+                     <hi>George Pitt</hi> Esq;</item>
+                  <item>For the County of <hi>Surrey▪</hi>
+                  </item>
+                  <item>
+                     <hi>Harvey</hi> of <hi>Combe Parke</hi> Esq;</item>
+                  <item>For the County of <hi>Sussex,</hi>
+                  </item>
+                  <item>
+                     <hi>Nathaniel Powell</hi> Esq;</item>
+                  <item>For the County of <hi>Warwick,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Petoe</hi> Esq;</item>
+                  <item>For the County of <hi>Worcester,</hi>
+                  </item>
+                  <item>Sir <hi>Henry Littleton.</hi>
+                  </item>
+                  <item>For the County of <hi>Wilts,</hi>
+                  </item>
+                  <item>
+                     <hi>John Dove</hi> Esq;</item>
+                  <item>For the County of <hi>Lancaster,</hi>
+                  </item>
+                  <item>Sir <hi>Ralph Ashton</hi> Baronet.</item>
+               </list>
+            </div>
+            <div type="list_for_Wales">
+               <head>For WALES.</head>
+               <list>
+                  <item>FOr the County of <hi>Anglesey,</hi>
+                  </item>
+                  <item>
+                     <hi>William Bowle</hi> Esq;</item>
+                  <item>For the County of <hi>Carnarvan,</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Williams</hi> of <hi>Weege</hi> Esq;</item>
+                  <item>For the County of <hi>Merioneth,</hi>
+                  </item>
+                  <item>
+                     <hi>William Vaughan</hi> Esq;</item>
+                  <item>For the County of <hi>Carnarthen,</hi>
+                  </item>
+                  <item>
+                     <hi>Humphrey Browne</hi> of <hi>Newcastle</hi> Esq;</item>
+                  <item>For the County of <hi>Pembroke,</hi>
+                  </item>
+                  <item>
+                     <hi>James Price</hi> Esq;</item>
+                  <item>For the County of <hi>Cardigan</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Vaughan</hi> of <hi>Kilkemy</hi> Esq;</item>
+                  <item>For the County of <hi>Glamorgan,</hi>
+                  </item>
+                  <item>
+                     <hi>Harbert</hi> of <hi>Swailes</hi> Esq;</item>
+                  <item>For the County of <hi>Brecon,</hi>
+                  </item>
+                  <item>
+                     <hi>Meredith Lewis</hi> Esq;</item>
+                  <item>For the County of <hi>Radnor,</hi>
+                  </item>
+                  <item>
+                     <hi>Samuel Powel</hi> Esq;</item>
+                  <item>For <hi>Chester,</hi>
+                  </item>
+                  <item>
+                     <hi>Phillip Egerton</hi> Esq;</item>
+               </list>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:184690:2"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
